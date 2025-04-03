@@ -22,7 +22,6 @@ My name Leandro Araújo, I'm 23 years old, and I'm originally from Ceará. I com
 </p>
 
 ---
-<details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -89,7 +88,6 @@ My name Leandro Araújo, I'm 23 years old, and I'm originally from Ceará. I com
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-8A2BE2.svg?logo=visual-studio&logoColor=white"></a>
-</details>
 <br/>
 <br/>
 
