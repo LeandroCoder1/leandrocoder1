@@ -2,7 +2,7 @@
 
 **`FullStack Developer`**
 
-My name Leandro Araújo, I'm 23 years old, and I'm originally from Ceará. I completed high school at IFRS with a technical course in Information Technology. Currently, I am studying Systems Analysis and Development at UNOPAR.
+My name Leandro Araújo, I'm 23 years old, and I'm originally from Ceará. I completed high school at Maria Eudes Bezerra Veras with a technical course in Information Technology. Currently, I am studying Systems Analysis and Development at UNOPAR.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/leandro-sousa-18577a226/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
