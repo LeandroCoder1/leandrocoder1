@@ -5,28 +5,16 @@
 My name Leandro Araújo, I'm 23 years old, and I'm originally from Ceará. I completed high school at IFRS with a technical course in Information Technology. Currently, I am studying Systems Analysis and Development at UNOPAR.
 
 <p align="left">
-    <a href="https://github.com/LeandroVed?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LeandroVed?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/LeandroVed?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LeandroVed?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <a href="https://www.linkedin.com/in/leandro-sousa-18577a226/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/leandrodev1"><img width="32px" alt="Dev.to" title="LeandroDev1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/leandrodev"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 
 ---
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
   <h3>👨‍💻 Programming and Markup Languages</h3>
-
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -48,8 +36,9 @@ My name Leandro Araújo, I'm 23 years old, and I'm originally from Ceará. I com
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
+---
 
+  <h3>🧰 Frameworks and Libraries</h3>
   <p>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
@@ -60,10 +49,9 @@ My name Leandro Araújo, I'm 23 years old, and I'm originally from Ceará. I com
       <a href="#"><img alt="Slim" src="https://custom-icon-badges.demolab.com/badge/Slim-74a045.svg?logo=slim-php"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
       <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
-
-
-
   </p>
+
+---
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
 
@@ -75,6 +63,8 @@ My name Leandro Araújo, I'm 23 years old, and I'm originally from Ceará. I com
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
   </p>
+
+---
 
   <h3>💻 Software and Tools</h3>
 
@@ -90,6 +80,8 @@ My name Leandro Araújo, I'm 23 years old, and I'm originally from Ceará. I com
       <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-8A2BE2.svg?logo=visual-studio&logoColor=white"></a>
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
 
