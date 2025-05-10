@@ -102,14 +102,13 @@ My name Leandro Araújo, I'm 23 years old, and I'm originally from Ceará. I com
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroCoder1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+<!--- G R E E T I N G   T E X T   A N D   I M A G E --->
 
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!">
+    </a>
+</div>
 
-![](https://github-contributor-stats.vercel.app/api?username=LeandroCoder1&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-[![](https://visitcount.itsvg.in/api?id=LeandroCoder1&icon=6&color=10)](https://visitcount.itsvg.in)
-
- ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
- 
-
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=74ff14&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png"></div>
