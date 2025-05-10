@@ -102,6 +102,8 @@ My name Leandro Araújo, I'm 23 years old, and I'm originally from Ceará. I com
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroCoder1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+
 ![](https://github-contributor-stats.vercel.app/api?username=LeandroCoder1&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
