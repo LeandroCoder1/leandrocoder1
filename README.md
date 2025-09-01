@@ -106,5 +106,4 @@ My name Leandro Araújo, I'm 23 years old, and I'm originally from Ceará. I com
 
 [![](https://visitcount.itsvg.in/api?id=leandroCoder1&icon=6&color=10)](https://visitcount.itsvg.in)
 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
  
